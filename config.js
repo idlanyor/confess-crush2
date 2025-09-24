@@ -1,19 +1,19 @@
 const CONFIG = {
     titleWeb: "Mau ngga? kalau kita jadian?",
     introTitle: 'Fatimah',
-    introDesc: `tidak perlu kata kata, 
-    kau mau jadi pacarku ngga
+    introDesc: `tidak perlu kata kata,
+    kau mau jadi pacarku ngga?
     `,
     btnIntro: 'Aduhai',
     title: 'Jadi gini, mmm... <33',
-    desc: 'mending gak ngoding apa gak turu?',
-    btnYes: 'Gak Turu',
-    btnNo: 'Gak ngoding',
-    question: 'Di dunia ada lebih dari 7 juta orang jawa, mengapa kamu memilih menjadi sunda? <3',
+    desc: 'mau nggak nih?',
+    btnYes: 'Mau dong,hehe',
+    btnNo: 'Gak Mw',
+    question: 'Di dunia ada lebih dari 7 miliar orang manusia, mengapa kamu memilih aku? <3',
     btnReply: 'Kirim',
     reply: 'Karna aku suka kamu',
-    mess: 'Satu oraang jawa, sembilan belas lainnya menunggu lapangan pekerjaan',
-    messDesc: 'Fun Fact,Kota tertua di Indonesia itu palembang.',
+    mess: 'Satu orang jatuh cinta, sembilan belas lainnya menunggu lapangan pekerjaan',
+    messDesc: 'Fun Fact,Kentang Mustofa berasal dari Indonesia.',
     btnAccept: 'Baiklah <3',
-    messLink: 'https://aduhai.bukankah-ini.my.id'
+    messLink: 'https://https://api.whatsapp.com/send?phone=62895395590009&text=iya, aku mau jadi pacarmu <3', //link whatsapp
 }
