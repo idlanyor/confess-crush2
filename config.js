@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Satu orang jatuh cinta, sembilan belas lainnya menunggu lapangan pekerjaan',
     messDesc: 'Fun Fact,Kentang Mustofa berasal dari Indonesia.',
     btnAccept: 'Baiklah <3',
-    messLink: 'https://https://api.whatsapp.com/send?phone=62895395590009&text=iya, aku mau jadi pacarmu <3', //link whatsapp
+    messLink: 'https://api.whatsapp.com/send?phone=62895395590009&text=iya,%20aku%20mau%20jadi%20pacarmu%20%3C3', //link whatsapp
 }
